@@ -1,0 +1,26 @@
+p{
+    color-interpolation-filters: auto;
+
+}
+classe { flex-direction: column;
+    .classe {
+        width: 50px;
+        height: 50px;
+        border: 1px solid gray;
+        padding: 10px 20px;
+    }
+}
+{
+    background::after
+}
+
+body {
+    background-color:white;
+    
+}
+.elemento {
+    background-image: url('caminho/para/sua-imagem.jpg');
+    background-size: cover; /* Ajusta a imagem para cobrir todo o elemento */
+    background-position: center; /* Centraliza a imagem */
+    height: 300px; /* Define uma altura para o elemento */
+}
